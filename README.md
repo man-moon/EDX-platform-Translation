@@ -1,4 +1,4 @@
 # EDX-platform-Translation
-** Translation for EDX-platform
+1.Translation for EDX-platform
 
-** url: https://www.transifex.com/open-edx/edx-platform/dashboard/
+1.url: https://www.transifex.com/open-edx/edx-platform/dashboard/
